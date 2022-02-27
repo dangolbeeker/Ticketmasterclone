@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component Snaphot testing 1`] = `
+<div
+  className="sc-bdVaJa sc-bwzfXH cXNBeh"
+  data-test="footerWrapper"
+>
+  <div
+    className="sc-htpNat eMJjyG"
+  >
+    <span
+      className="sc-ifAKCX OxWJl"
+    >
+      <a
+        className="footerInfo sc-bZQynM footerInfo khtFgc"
+        data-test="footerLink"
+        href="https://github.com/savasozcan"
+        target="_blank"
+      >
+        Savaş Özcan
+      </a>
+    </span>
+  </div>
+  <div
+    className="source sc-bxivhb jBnsfr"
+  >
+    <span
+      className="sc-EHOje edRFCv"
+    >
+      <a
+        className="footerInfo sc-bZQynM footerInfo khtFgc"
+        data-test="footerLink"
+        href="https://github.com/savasozcan/ticketmaster-events"
+        target="_blank"
+      >
+        <img
+          src="/images/source-code.png"
+        />
+      </a>
+    </span>
+  </div>
+</div>
+`;
